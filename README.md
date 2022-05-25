@@ -18,13 +18,19 @@ Jupyter Notebook - [Natural_Language_Processing](Natural_Language_Processing.ipy
 
 Regression Models - 
 
-All Model ZIP File - 
+All Model ZIP File - [Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/f973fe1b21d2bd974ce8325cf4f7be9f3c6715a9/Regression.zip)
 
-Jupyter Notebooks
-#[Linear Regression]
-#[Multiple Linear Regression]
-#[Polynomial Regression]
-#[Support Vector Regression]
-#[Decision Tree Regression]
-#[Random Forest Regression]
+Jupyter Notebooks - 
+
+#[Linear Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/f973fe1b21d2bd974ce8325cf4f7be9f3c6715a9/Simple_Linear_Regression.ipynb)
+
+#[Multiple Linear Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/f973fe1b21d2bd974ce8325cf4f7be9f3c6715a9/Multiple_Linear_Regression.ipynb)
+
+#[Polynomial Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/f973fe1b21d2bd974ce8325cf4f7be9f3c6715a9/Polynomial_Regression.ipynb)
+
+#[Support Vector Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/f973fe1b21d2bd974ce8325cf4f7be9f3c6715a9/Support_Vector_Regression.ipynb)
+
+#[Decision Tree Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/f973fe1b21d2bd974ce8325cf4f7be9f3c6715a9/Decision_Tree_Regression.ipynb)
+
+#[Random Forest Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/f973fe1b21d2bd974ce8325cf4f7be9f3c6715a9/Random_Forest_Regression.ipynb)
 
