@@ -3,5 +3,5 @@
 I have uploaded different Machine Learning Codes in this Repository
 
 Codes - 
-        OCR by EasyOCR
-        
+        [OCR_by_EasyOCR.ipynb.zip](OCR_by_EasyOCR.ipynb)
+
