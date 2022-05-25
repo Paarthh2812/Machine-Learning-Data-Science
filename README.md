@@ -1,8 +1,8 @@
 # Machine-Learning-Data-Science
 
 I have uploaded different Machine Learning Codes in this Repository
-
-Codes - 
+Every .ipynb contains Collab Link within
+Every ZIP File contains .ipynb & Dataset required for the Jupyter Notebook
         
 Image Processing & Optical Character Recognition
 
