@@ -4,6 +4,13 @@ I have uploaded different Machine Learning Codes in this Repository
 Every .ipynb contains Collab Link within
 Every ZIP File contains .ipynb & Dataset required for the Jupyter Notebook
         
+-- Capstone Project on Gender Voice Classification
+
+ZIP File - [Gender Voice Classification.zip](https://github.com/Paarthh2812/Machine-Learning-Python/blob/b759ebb5071199da091d20bd86f79ee657520f45/Gender%20Voice%20Classification.zip)
+
+Jupyter Notebook - [Gender Voice Classification](https://github.com/Paarthh2812/Machine-Learning-Python/blob/b759ebb5071199da091d20bd86f79ee657520f45/Gender_Voice_Classification.ipynb)
+
+
 -- Capstone Project on Car Sales 
 
 ZIP File - [Project on Car Sales.zip](https://github.com/Paarthh2812/Machine-Learning-Python/blob/588945cf17c3269132318fc8c307c6c53ee6f4ee/Project%20on%20Car%20Sales.zip)
