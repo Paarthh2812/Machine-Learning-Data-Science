@@ -35,15 +35,35 @@ All Model ZIP File - [Regression](https://github.com/Paarthh2812/Machine-Learnin
 
 Jupyter Notebooks - 
 
-#[Linear Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/f973fe1b21d2bd974ce8325cf4f7be9f3c6715a9/Simple_Linear_Regression.ipynb)
+#[Linear Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/c6ba2c6730fffe8b146e59f6ceb05f3dbf19a16f/Regression/Simple_Linear_Regression.ipynb)
 
-#[Multiple Linear Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/f973fe1b21d2bd974ce8325cf4f7be9f3c6715a9/Multiple_Linear_Regression.ipynb)
+#[Multiple Linear Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/c6ba2c6730fffe8b146e59f6ceb05f3dbf19a16f/Regression/Multiple_Linear_Regression.ipynb)
 
-#[Polynomial Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/f973fe1b21d2bd974ce8325cf4f7be9f3c6715a9/Polynomial_Regression.ipynb)
+#[Polynomial Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/c6ba2c6730fffe8b146e59f6ceb05f3dbf19a16f/Regression/Polynomial_Regression.ipynb)
 
-#[Support Vector Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/f973fe1b21d2bd974ce8325cf4f7be9f3c6715a9/Support_Vector_Regression.ipynb)
+#[Support Vector Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/c6ba2c6730fffe8b146e59f6ceb05f3dbf19a16f/Regression/Support_Vector_Regression.ipynb)
 
-#[Decision Tree Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/f973fe1b21d2bd974ce8325cf4f7be9f3c6715a9/Decision_Tree_Regression.ipynb)
+#[Decision Tree Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/c6ba2c6730fffe8b146e59f6ceb05f3dbf19a16f/Regression/Decision_Tree_Regression.ipynb)
 
-#[Random Forest Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/f973fe1b21d2bd974ce8325cf4f7be9f3c6715a9/Random_Forest_Regression.ipynb)
+#[Random Forest Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/c6ba2c6730fffe8b146e59f6ceb05f3dbf19a16f/Regression/Random_Forest_Regression.ipynb)
+
+-- Classification Models -
+
+All Model ZIP File - [Classification](https://github.com/Paarthh2812/Machine-Learning-Python/blob/c6ba2c6730fffe8b146e59f6ceb05f3dbf19a16f/Classification.zip)
+
+Jupyter Notebooks - 
+
+#[Logistic Regression](https://github.com/Paarthh2812/Machine-Learning-Python/blob/c6ba2c6730fffe8b146e59f6ceb05f3dbf19a16f/Classification/Logistic_Regression.ipynb)
+
+#[K-Nearest Neighbors](https://github.com/Paarthh2812/Machine-Learning-Python/blob/c6ba2c6730fffe8b146e59f6ceb05f3dbf19a16f/Classification/K-Nearest_Neighbors.ipynb)
+
+#[Support Vector Machine](https://github.com/Paarthh2812/Machine-Learning-Python/blob/c6ba2c6730fffe8b146e59f6ceb05f3dbf19a16f/Classification/Support_Vector_Machine.ipynb)
+
+#[Kernel SVM](https://github.com/Paarthh2812/Machine-Learning-Python/blob/c6ba2c6730fffe8b146e59f6ceb05f3dbf19a16f/Classification/Kernel_SVM.ipynb)
+
+#[Naive Bias](https://github.com/Paarthh2812/Machine-Learning-Python/blob/c6ba2c6730fffe8b146e59f6ceb05f3dbf19a16f/Classification/Naive_Bayes.ipynb)
+
+#[Decision Tree Classifier](https://github.com/Paarthh2812/Machine-Learning-Python/blob/c6ba2c6730fffe8b146e59f6ceb05f3dbf19a16f/Classification/Decision_Tree_Classification.ipynb)
+
+#[Random Forest Classifier](https://github.com/Paarthh2812/Machine-Learning-Python/blob/c6ba2c6730fffe8b146e59f6ceb05f3dbf19a16f/Classification/Random_Forest_Classification.ipynb)
 
